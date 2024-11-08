@@ -55,7 +55,7 @@ I love tackling tough challenges and discussing solutions, so bring on the compl
 ## 📫 How to Reach Me
 - **Email**: [mayankbharti349@gmail.com](mailto:mayankbharti349@gmail.com)
 - **GitHub**: [Mayank-Bharti](https://github.com/Mayank-Bharti/)
-- **LinkedIn**: [Mayank Bharti on LinkedIn](www.linkedin.com/in/mayank-bharti-839b07261)
+- **LinkedIn**: [Mayank Bharti on LinkedIn](www.linkedin.com/in/mayank-bharti-839b07261/)
 
 
 
