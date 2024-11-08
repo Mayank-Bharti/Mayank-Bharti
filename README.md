@@ -1,5 +1,5 @@
-## Hi there 👋 ishika-pandey/README.md
-Hey there! 👋 I'm Ishika
+
+Hey there! 👋 I'm Mayank Bharti
 Welcome to my GitHub corner!
 
 <!--
