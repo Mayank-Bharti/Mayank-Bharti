@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 ishika-pandey/README.md
+Hey there! 👋 I'm Ishika
+Welcome to my GitHub corner!
 
 <!--
 **Mayank-Bharti/Mayank-Bharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
