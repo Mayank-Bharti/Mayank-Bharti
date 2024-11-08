@@ -3,7 +3,7 @@ Hey there! 👋 I'm Mayank Bharti
 Welcome to my GitHub corner!
 
 <!--
-**Mayank-Bharti/Mayank-Bharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mayank-Bharti/Mayank-Bharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 - 🔭  I’m currently working on sharpening my algorithms and diving into MERN development!
@@ -17,4 +17,4 @@ Welcome to my GitHub corner!
 - 📫 How to reach me: mayankbharti349@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I’m a lifelong learner because... did you know that learning something new rewires your brain? Each skill you pick up strengthens your neurons—kind of like lifting weights but for your brain 💪.
--->
+
