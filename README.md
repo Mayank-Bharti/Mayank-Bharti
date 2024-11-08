@@ -5,13 +5,15 @@ Welcome to my GitHub corner, where I'm constantly exploring, building, and learn
 
 
 ## 🔭 Currently Working On
-Right now, I'm focused on strengthening my algorithm skills and diving deep into **MERN stack development**.  
+Right now, I'm focused on strengthening my data structure and algorithm skills and diving deep into **MERN stack development**.  
 I’m aiming to build efficient, scalable applications and solve challenging problems.
 
 
 
 ## 🌱 Learning Journey
 I’m on a **learning spree**, delving into:
+-**Data Structures and Algorithms** 📚 
+- **MERN Stack Development** 🖥️  
 - **Open-source contributions** 🌍
 - **DevOps** 🌐
 
