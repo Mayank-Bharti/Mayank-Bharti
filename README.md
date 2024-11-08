@@ -12,7 +12,7 @@ I’m aiming to build efficient, scalable applications and solve challenging pro
 
 ## 🌱 Learning Journey
 I’m on a **learning spree**, delving into:
--**Data Structures and Algorithms** 📚 
+- **Data Structures and Algorithms** 📚 
 - **MERN Stack Development** 🖥️  
 - **Open-source contributions** 🌍
 - **DevOps** 🌐
