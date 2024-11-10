@@ -2,6 +2,10 @@
 
 Welcome to my GitHub corner, where I'm constantly exploring, building, and learning!
 
+## 👨‍💻 About Me
+I’m a **3rd-year Computer Science** student with a passion for technology and problem-solving.  
+I love diving deep into algorithms, full-stack development, DevOps and open-source contributions.  
+Every day is an opportunity to learn something new, and I’m committed to growing my skills and expanding my knowledge in **Computer Science** and **Software Development**.
 
 
 ## 🔭 Currently Working On
